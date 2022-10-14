@@ -1,6 +1,21 @@
+body{
+    background-color: #9fb3c8;
+}
+
+.card{
+    width: auto;
+    float: left;
+    padding: 5%;
+    margin-right: 5%;
+    /* background-color: aqua; */
+    /* border-radius: 10px; */
+}
+
 h1 {
     color: rgb(230, 91, 91);
     text-align: center;
+    
+    
 }
 
 h2 {
